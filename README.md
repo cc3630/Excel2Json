@@ -5,4 +5,4 @@
 ### 使用方法
 
 1. 参考 conlums.example.js 将要读取 excel 的列信息写入 columns.js 文件
-2. npm run test.xlsx
+2. npm start test.xlsx
